@@ -94,17 +94,17 @@
             Console.WriteLine("87. Scrim is my favorite solo artist");
             Console.WriteLine("88. A lot of my friends make music");
             Console.WriteLine("89. I make music");
-            Console.WriteLine("90");
-            Console.WriteLine("91");
-            Console.WriteLine("92");
-            Console.WriteLine("93");
-            Console.WriteLine("94");
-            Console.WriteLine("95");
-            Console.WriteLine("96");
-            Console.WriteLine("97");
-            Console.WriteLine("98");
-            Console.WriteLine("99");
-            Console.WriteLine("100");
+            Console.WriteLine("90. I have an orange phone");
+            Console.WriteLine("91. i have an iphone 17 pro max");
+            Console.WriteLine("92. i have a 75 inch tv");
+            Console.WriteLine("93. I enjoy going to the park with my son");
+            Console.WriteLine("94. i enjoy driving");
+            Console.WriteLine("95. i wanna live in a differet country");
+            Console.WriteLine("96. i wanna go to a uni");
+            Console.WriteLine("97. favoirte fruit is strawberry");
+            Console.WriteLine("98. fav shoes is timbs");
+            Console.WriteLine("99. i own hella clothes");
+            Console.WriteLine("100 i guess i do know 100 things about me");
 
 
         }
