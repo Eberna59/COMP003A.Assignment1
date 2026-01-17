@@ -89,11 +89,11 @@
             Console.WriteLine("82. I like fire works");
             Console.WriteLine("83. I like boats");
             Console.WriteLine("84. Ive been to 36 concerts");
-            Console.WriteLine("85. ");
-            Console.WriteLine("86");
-            Console.WriteLine("87");
-            Console.WriteLine("88");
-            Console.WriteLine("89");
+            Console.WriteLine("85. I am working toward my ccw ");
+            Console.WriteLine("86. I like juice");
+            Console.WriteLine("87. Scrim is my favorite solo artist");
+            Console.WriteLine("88. A lot of my friends make music");
+            Console.WriteLine("89. I make music");
             Console.WriteLine("90");
             Console.WriteLine("91");
             Console.WriteLine("92");
