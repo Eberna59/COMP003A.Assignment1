@@ -28,12 +28,12 @@
             Console.WriteLine("21. My Cats name is Meow Meow");
             Console.WriteLine("22. I have black hair ");
             Console.WriteLine("23. I have brown eyes");
-            Console.WriteLine("24");
-            Console.WriteLine("25");
-            Console.WriteLine("26");
-            Console.WriteLine("27");
-            Console.WriteLine("28");
-            Console.WriteLine("29");
+            Console.WriteLine("24. I like to belive im 6 feet tall");
+            Console.WriteLine("25. Im really 5'11");
+            Console.WriteLine("26. My Shoes size is a 12 mens");
+            Console.WriteLine("27. I Drive a Honda");
+            Console.WriteLine("28. My car is white");
+            Console.WriteLine("29. My favorite song is bloodsweat");
             Console.WriteLine("30");
             Console.WriteLine("31");
             Console.WriteLine("32");
